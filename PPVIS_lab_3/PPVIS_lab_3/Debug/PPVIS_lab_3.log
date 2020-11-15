@@ -1,0 +1,28 @@
+﻿  Users_functions.cpp
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Reverse_polish_notation.h(25,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Expression_tree.h(48,59): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.h(8,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.h(9,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.h(10,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.h(11,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.h(12,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.h(13,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(3,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(14,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(33,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(39,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(50,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(68,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(74,59): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(85,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(103,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(109,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(120,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(138,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(144,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(155,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(173,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(179,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(190,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\source\repos\PPVIS_lab_3\PPVIS_lab_3\Users_functions.cpp(208,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  PPVIS_lab_3.vcxproj -> C:\Users\pilip\source\repos\PPVIS_lab_3\Debug\PPVIS_lab_3.exe
